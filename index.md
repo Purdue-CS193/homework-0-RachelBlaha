@@ -35,7 +35,7 @@ Syntax highlighted code block
 
 **This sentence should be in bold**
 _This sentence should be italicized_
-'This sentence should be code' 
+`This sentence should be code`
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
