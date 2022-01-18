@@ -23,8 +23,18 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+**This sentence should be in bold**
+_This sentence should be italicized_
+'This sentence should be code' 
+
 [Link](url) and ![Image](src)
 ```
+- this should 
+- be a bulleted list 
+
+1. this list should
+2. be numbered
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
